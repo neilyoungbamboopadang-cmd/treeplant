@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Tree Planting</string>
+
+    <!-- Main Activity -->
+    <string name="welcome">WELCOME</string>
+    <string name="title_grow_together">Grow Together.</string>
+    <string name="subtitle_community">A community where faith, love, and friendship come together.</string>
+    <string name="logo_desc">Logo</string>
+    <string name="btn_get_started">GET STARTED  →</string>
+    <string name="begin_journey">BEGIN YOUR JOURNEY</string>
+    <string name="tagline">Faith  •  Love  •  Community</string>
+
+    <!-- Login Activity -->
+    <string name="welcome_back">Welcome Back.</string>
+    <string name="login_subtitle">Log in to continue your journey</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account_register">No account yet? Register</string>
+
+    <!-- Register Activity -->
+    <string name="join_us">Join Us.</string>
+    <string name="hint_password_min_6">Password (min. 6 characters)</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="btn_create_account">CREATE ACCOUNT</string>
+    <string name="already_have_account_login">Already have an account? Log in</string>
+
+    <!-- Home Activity -->
+    <string name="signed_in_as">Signed in as %1$s</string>
+    <string name="btn_logout">LOG OUT</string>
+
+    <!-- Vision &amp; Mission -->
+    <string name="vision_title">Vision Statement</string>
+    <string name="vision_desc">To cultivate a greener, climate-resilient planet where communities unite to restore ecosystems, combat climate change, and ensure a thriving, biodiverse environment for future generations.</string>
+
+    <string name="mission_title">Mission Statement</string>
+    <string name="mission_desc">Our mission is to make environmental restoration accessible and impactful for everyone. Through community-driven tree planting initiatives, transparent tracking, and educational outreach, we empower individuals, businesses, and organizations to take measurable action in reforesting degraded landscapes, capturing carbon, and restoring vital ecosystems worldwide.</string>
+
+    <!-- Strategic Goals -->
+    <string name="strategic_goals_title">Strategic Goals</string>
+
+    <string name="goal1_title">1. Environmental Impact &amp; Reforestation</string>
+    <string name="goal1_item1_title">Native Planting</string>
+    <string name="goal1_item1_desc">Plant 1,000,000 native trees across degraded ecosystems over the next five years.</string>
+    <string name="goal1_item2_title">Biodiversity Restoration</string>
+    <string name="goal1_item2_desc">Prioritize reforestation projects that safeguard endangered local flora and fauna and restore natural habitats.</string>
+    <string name="goal1_item3_title">Carbon Offset</string>
+    <string name="goal1_item3_desc">Measure, track, and optimize carbon sequestration efforts to directly combat climate change.</string>
+
+    <string name="goal2_title">2. Community Engagement &amp; Action</string>
+    <string name="goal2_item1_title">Global Participation</string>
+    <string name="goal2_item1_desc">Engage 100,000 active volunteers, donors, and corporate partners in planting and funding initiatives.</string>
+    <string name="goal2_item2_title">Corporate Partnerships</string>
+    <string name="goal2_item2_desc">Establish strategic alliances with eco-conscious companies to sponsor large-scale reforestation drives.</string>
+    <string name="goal2_item3_title">Educational Outreach</string>
+    <string name="goal2_item3_desc">Provide free educational resources to raise awareness about the ecological benefits of trees and sustainable living.</string>
+
+    <string name="goal3_title">3. Digital Experience &amp; Transparency</string>
+    <string name="goal3_item1_title">Impact Tracking</string>
+    <string name="goal3_item1_desc">Develop real-time tracking features (GPS mapping, progress dashboards, and photo updates) for every tree planted.</string>
+    <string name="goal3_item2_title">User Experience</string>
+    <string name="goal3_item2_desc">Maintain an intuitive platform that allows individuals to fund, plant, or gift a tree in under two minutes.</string>
+    <string name="goal3_item3_title">Accountability</string>
+    <string name="goal3_item3_desc">Provide transparent impact reports detailing survival rates, carbon reduction estimates, and financial allocations.</string>
+</resources>

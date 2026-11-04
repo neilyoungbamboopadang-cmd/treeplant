@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#F7F5EE" android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:gravity="center_horizontal"
+        android:padding="32dp">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="60dp" android:text="Welcome Back."
+            android:textColor="#2B2B2B" android:textSize="28sp" android:textStyle="bold" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" android:text="Log in to continue your journey"
+            android:textColor="#6B806B" android:textSize="14sp" />
+        <EditText android:id="@+id/etEmail"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginTop="40dp" android:hint="Email"
+            android:inputType="textEmailAddress" />
+        <EditText android:id="@+id/etPassword"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_marginTop="12dp" android:hint="Password"
+            android:inputType="textPassword" />
+        <Button android:id="@+id/btnLogin"
+            android:layout_width="match_parent" android:layout_height="52dp"
+            android:layout_marginTop="28dp" android:backgroundTint="#6B806B"
+            android:text="LOG IN" android:textColor="#FFFFFF" />
+        <TextView android:id="@+id/tvForgot"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="16dp" android:padding="8dp"
+            android:text="Forgot password?" android:textColor="#6B806B" />
+        <TextView android:id="@+id/tvGoRegister"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" android:padding="8dp"
+            android:text="No account yet? Register"
+            android:textColor="#B3202A" android:textStyle="bold" />
+    </LinearLayout>
+</ScrollView>

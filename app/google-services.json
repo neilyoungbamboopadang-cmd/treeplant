@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48144729669",
+    "project_id": "tree-planting-56048",
+    "storage_bucket": "tree-planting-56048.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48144729669:android:5dbab3c28a6451844fc52c",
+        "android_client_info": {
+          "package_name": "com.example.treeplanting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48144729669-msqea7rcnlnmi2poi051kkkv2pd4a39b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYA6LTIs0HjYBjcadMj4QL9Hf5BOQz9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48144729669-msqea7rcnlnmi2poi051kkkv2pd4a39b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+Put your google-services.json in this folder (app/).
